@@ -4,3 +4,4 @@
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Code for Cause ML-BootCamp](https://www.youtube.com/watch?v=ycvSMpsg7qk&list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1)
 - [A Beginner's Guide to Machine Learning](https://medium.com/@randylaosat/a-beginners-guide-to-machine-learning-dfadc19f6caf)
+- [Machine Learning Full Course by Edureka](https://youtu.be/GwIo3gDZCVQ)
