@@ -5,3 +5,4 @@
 - [Code for Cause ML-BootCamp](https://www.youtube.com/watch?v=ycvSMpsg7qk&list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1)
 - [A Beginner's Guide to Machine Learning](https://medium.com/@randylaosat/a-beginners-guide-to-machine-learning-dfadc19f6caf)
 - [Machine Learning Full Course by Edureka](https://youtu.be/GwIo3gDZCVQ)
+- [Machine Learning Algorithm Overview](https://medium.com/ml-research-lab/machine-learning-algorithm-overview-5816a2e6303)
