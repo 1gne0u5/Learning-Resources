@@ -46,6 +46,7 @@ Learning Resources-
 - https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie
 - https://www.udemy.com/course/understanding-blockchain-technology/
 - https://cognitiveclass.ai/courses/blockchain-course
+- [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 
 
 5)Whitepapers
