@@ -6,3 +6,6 @@
 - [A Beginner's Guide to Machine Learning](https://medium.com/@randylaosat/a-beginners-guide-to-machine-learning-dfadc19f6caf)
 - [Machine Learning Full Course by Edureka](https://youtu.be/GwIo3gDZCVQ)
 - [Machine Learning Algorithm Overview](https://medium.com/ml-research-lab/machine-learning-algorithm-overview-5816a2e6303)
+- [Machine Learning Mastery] (https://machinelearningmastery.com/start-here/)
+- [Geeksforgeeks] (https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/)
+- [How to get started with machine learning in about 10 minutes] (https://www.freecodecamp.org/news/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23/)
