@@ -1,7 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)]()
 
-Issue no: #37
 # Blockchain-Resources
 Various Blockchain Resources
 
@@ -13,10 +12,9 @@ Learning Resources-
 - Mastering Ethereum: Building Smart Contracts and Dapps(https://github.com/ethereumbook/ethereumbook)
 - Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners
 - Investing in Ethereum: The Ultimate Guide to Learning–And Profiting From–Cryptocurrencies
-- Complete Guide to Understanding Ethereum, Blockchain, Smart Contracts, ICOs, and Decentralized Apps. Includes guides on buying Ether,
-  Cryptocurrencies and Investing in ICOs
+- Complete Guide to Understanding Ethereum, Blockchain, Smart Contracts, ICOs, and Decentralized Apps. Includes guides on buying Ether, Cryptocurrencies and Investing in ICOs
 - Mastering Bitcoin : https://github.com/bitcoinbook/bitcoinbook
--Blockchain Revolution by Don and Alex Tapscott
+- Blockchain Revolution by Don and Alex Tapscott
 - The Book of Satoshi by Phil Champagne
 - The Blockchain Developer by Elad Elrom
 - Cryptoassets by Chris Burniske and Jack Tatar
