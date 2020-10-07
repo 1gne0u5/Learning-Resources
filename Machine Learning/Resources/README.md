@@ -8,5 +8,4 @@
 - [Machine Learning Algorithm Overview](https://medium.com/ml-research-lab/machine-learning-algorithm-overview-5816a2e6303)
 
 - [40 free resources to learn ML](https://www.springboard.com/blog/free-resources-to-learn-machine-learning/&ved=2ahUKEwjJjfX1maLsAhXwxzgGHf_AAz0QFjAOegQIEhAB&usg=AOvVaw28Pp8GmkWYnr1veNi8SK8G)
-- [Curated list of AI/ML resources](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524&ved=2ahUKEwjJjfX1maLsAhXwxzgGHf_AAz0QFjARegQIDRAB&usg=AOvVaw2IX-l_nqy6IlqGw03P6-7T)
 - [27 top resources to learn ML](https://serokell.io/blog/top-resources-to-learn-ml&ved=2ahUKEwjJjfX1maLsAhXwxzgGHf_AAz0QFjACegQIARAE&usg=AOvVaw2xrCDYhOEHun3OJMeoUFEs&cshid=1602064366085 )
