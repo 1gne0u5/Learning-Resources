@@ -7,6 +7,8 @@
 - [The Front End CheckList](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - An Exhaustive List of all the Elements you need to have/test Before Launching your Website To Production.
 - [Design Resources](http://designresources.party/) - List of resources for working in and learning about design.  
 - [Smashing magzine](https://www.smashingmagazine.com/) - Here you can find blogs and articles for both developers and designers and may also get an inspiration for your graphics designing.  
+- [Frontend Mentor](https://www.frontendmentor.io/) - Here you can Improve your front-end coding skills by building real projects.
+- [UnDraw](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 ----
 ### TECH NEWS
 - [Hackernoon](https://hackernoon.com/) - Hacker Noon is built for technologists to read, write, and publish. 
