@@ -7,5 +7,6 @@
 - [Best CSS Courses for Beginners](https://hackr.io/tutorials/learn-css)
 - [Flexbox Froggy: Interactive CSS Learning Game](https://flexboxfroggy.com/)
 - [Grid Garden: Interative CSS Learning Game](https://cssgridgarden.com/)
-- [**freeCodeCamp** consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone](https://www.freecodecamp.org/learn/)
-- [**W3Schools** is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, C++, C#, React, Node.js, XML, W3.CSS, and Bootstrap, covering most aspects of web programming](https://www.w3schools.com/default.asp)
+- [w3school HTML 5 tutorial](https://www.w3schools.com/html/default.asp)
+- [w3schools CSS tutorial](https://www.w3schools.com/css/default.asp)
+- [w3schools javascript tutorial](https://www.w3schools.com/js/default.asp)
