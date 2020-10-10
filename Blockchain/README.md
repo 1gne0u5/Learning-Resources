@@ -47,7 +47,6 @@ Learning Resources-
 - https://www.udemy.com/course/understanding-blockchain-technology/
 - https://cognitiveclass.ai/courses/blockchain-course
 
-
 5)Whitepapers
 - Bitcoin Whitepaper : https://bitcoin.org/bitcoin.pdf
 
