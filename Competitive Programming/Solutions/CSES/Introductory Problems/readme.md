@@ -15,7 +15,7 @@
 
 *[Solution (Python)](https://github.com/1gne0u5/Learning-Resources/blob/master/Competitive%20Programming/Solutions/CSES/Introductory%20Problems/weirdAlgorithm.py)*
 
-**Wierd Algorithm**
+**Coin Piles**
 ---
 
 *[Solution (Python)](https://github.com/1gne0u5/Learning-Resources/blob/master/Competitive%20Programming/Solutions/CSES/Introductory%20Problems/coinPiles.cpp)*
