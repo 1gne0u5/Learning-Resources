@@ -10,7 +10,17 @@
 
 *[Solution (C++)](https://github.com/1gne0u5/Learning-Resources/blob/master/Competitive%20Programming/Solutions/CSES/Introductory%20Problems/twoSets.cpp)*
 
+**Missing Number**
+---
+
+*[Solution (Python)](missingNumber.py)*
+
+**Repetitions**
+---
+
+*[Solution (Python)](repetitions.py)*
+
 **Wierd Algorithm**
 ---
 
-*[Solution (Python)](https://github.com/1gne0u5/Learning-Resources/blob/master/Competitive%20Programming/Solutions/CSES/Introductory%20Problems/weirdAlgorithm.py)*
+*[Solution (Python)](weirdAlgorithm.py)*
