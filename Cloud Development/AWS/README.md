@@ -1,0 +1,1 @@
+### AWS services and their configurations/settings resources.
