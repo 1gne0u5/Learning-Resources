@@ -15,6 +15,11 @@
 
 *[Solution (Python)](missingNumber.py)*
 
+**Repetitions**
+---
+
+*[Solution (Python)](repetitions.py)*
+
 **Wierd Algorithm**
 ---
 
