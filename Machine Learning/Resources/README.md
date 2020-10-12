@@ -7,6 +7,7 @@
 - [A Beginner's Guide to Machine Learning](https://medium.com/@randylaosat/a-beginners-guide-to-machine-learning-dfadc19f6caf)
 - [Machine Learning Full Course by Edureka](https://youtu.be/GwIo3gDZCVQ)
 - [Machine Learning Algorithm Overview](https://medium.com/ml-research-lab/machine-learning-algorithm-overview-5816a2e6303)
+- [Learn Machine Learning in Five Months](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months)
 - [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 
 1. [Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning)<br/>*One of the best tutorials available to get started with Machine Learning conceptually.*
