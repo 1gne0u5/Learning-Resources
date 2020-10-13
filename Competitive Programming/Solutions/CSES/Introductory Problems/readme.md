@@ -34,3 +34,33 @@
 ---
 
 *[Solution (C++)](coinPiles.cpp)*
+
+**Permutations**
+---
+
+*[Solution (C++)](permutations.cpp)*
+
+**Trailing Zeroes**
+---
+
+*[Solution (C++)](trailingZeroes.cpp)*
+
+**Palindrome Reorder**
+---
+
+*[Solution (C++)](palindromeReorder.cpp)*
+
+**Creating Strings 1**
+---
+
+*[Solution (C++)](creatingStrings1.cpp)*
+
+**Apple Divison**
+---
+
+*[Solution (C++)](appleDivison.cpp)*
+
+**Chessboard and Queens**
+---
+
+*[Solution (C++)](chessboardAndQueens.cpp)*
