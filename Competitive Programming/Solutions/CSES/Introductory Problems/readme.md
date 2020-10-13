@@ -10,6 +10,11 @@
 
 *[Solution (C++)](twoSets.cpp)*
 
+**Increasing Array**
+---
+
+*[Solution (Python)](increasingArray.py)*
+
 **Missing Number**
 ---
 
