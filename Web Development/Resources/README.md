@@ -9,3 +9,6 @@
 - [Best CSS Courses for Beginners](https://hackr.io/tutorials/learn-css)
 - [Flexbox Froggy: Interactive CSS Learning Game](https://flexboxfroggy.com/)
 - [Grid Garden: Interative CSS Learning Game](https://cssgridgarden.com/)
+- [Learn Web Development from Scratch | Edureka](https://www.youtube.com/watch?v=Q33KBiDriJY)
+- [Web Development Training | Intellipaat](https://www.youtube.com/watch?v=7T3gVzKHOlU)
+- [Complete Free Web Development Course: Become A Professional Website](https://www.youtube.com/watch?v=U-JhRjRaD4A)
