@@ -29,3 +29,4 @@
 - [Documentation](https://developer.android.com/docs) - Documentations on everything you need to get started
 - [Android Studio](https://developer.android.com/studio) - Easy to use tool for android development
 - [GameMaker: Studio](https://www.yoyogames.com/gamemaker) - Development tool for games
+- [Android Development(Kotlin) for Beginners](https://developer.android.com/courses/android-basics-kotlin/course) - In this five-unit course, you learn the basics of building Android apps with the Kotlin programming language and develop a collection of simple apps to start your journey as an Android developer.
