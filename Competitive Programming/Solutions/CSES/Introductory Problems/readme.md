@@ -1,66 +1,66 @@
 # NAVIGATION
 
-**Bit Strings**
+*Bit Strings*
 ---
 
 *[Solution (C++)](bitStrings.cpp)*
 
-**Two Sets**
+*Two Sets*
 ---
 
 *[Solution (C++)](twoSets.cpp)*
 
-**Increasing Array**
+*Increasing Array*
 ---
 
 *[Solution (Python)](increasingArray.py)*
 
-**Missing Number**
+*Missing Number*
 ---
 
 *[Solution (Python)](missingNumber.py)*
 
-**Repetitions**
+*Repetitions*
 ---
 
 *[Solution (Python)](repetitions.py)*
 
-**Wierd Algorithm**
+*Wierd Algorithm*
 ---
 
 *[Solution (Python)](weirdAlgorithm.py)*
 
-**Coin Piles**
+*Coin Piles*
 ---
 
 *[Solution (C++)](coinPiles.cpp)*
 
-**Permutations**
+*Permutations*
 ---
 
 *[Solution (C++)](permutations.cpp)*
 
-**Trailing Zeroes**
+*Trailing Zeroes*
 ---
 
 *[Solution (C++)](trailingZeroes.cpp)*
 
-**Palindrome Reorder**
+*Palindrome Reorder*
 ---
 
 *[Solution (C++)](palindromeReorder.cpp)*
 
-**Creating Strings 1**
+*Creating Strings 1*
 ---
 
 *[Solution (C++)](creatingStrings1.cpp)*
 
-**Apple Divison**
+*Apple Divison*
 ---
 
 *[Solution (C++)](appleDivison.cpp)*
 
-**Chessboard and Queens**
+*Chessboard and Queens*
 ---
 
 *[Solution (C++)](chessboardAndQueens.cpp)*
