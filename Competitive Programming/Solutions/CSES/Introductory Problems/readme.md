@@ -64,3 +64,9 @@
 ---
 
 *[Solution (C++)](chessboardAndQueens.cpp)*
+
+*Number Spiral*
+---
+
+*[Solution (C++)](numberSpiral.cpp)*
+
