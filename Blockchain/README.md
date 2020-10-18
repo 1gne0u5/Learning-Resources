@@ -1,7 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)]()
 
-
 # Blockchain-Resources
 Various Blockchain Resources
 
@@ -13,9 +12,13 @@ Learning Resources-
 - Mastering Ethereum: Building Smart Contracts and Dapps(https://github.com/ethereumbook/ethereumbook)
 - Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners
 - Investing in Ethereum: The Ultimate Guide to Learning–And Profiting From–Cryptocurrencies
-- Complete Guide to Understanding Ethereum, Blockchain, Smart Contracts, ICOs, and Decentralized Apps. Includes guides on buying Ether,
-Cryptocurrencies and Investing in ICOs
+- Complete Guide to Understanding Ethereum, Blockchain, Smart Contracts, ICOs, and Decentralized Apps. Includes guides on buying Ether, Cryptocurrencies and Investing in ICOs
 - Mastering Bitcoin : https://github.com/bitcoinbook/bitcoinbook
+- Blockchain Revolution by Don and Alex Tapscott
+- The Book of Satoshi by Phil Champagne
+- The Blockchain Developer by Elad Elrom
+- Cryptoassets by Chris Burniske and Jack Tatar
+- The Internet of Money by Andreas M. Antonopoulos
 
 2)Documentations
 
@@ -29,10 +32,20 @@ Cryptocurrencies and Investing in ICOs
 3)Websites,Blogs and Youtube
 - Dapp University : https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ
 - Eat the Block : https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA
+- https://weekinethereumnews.com/
+- https://blockchainatberkeley.blog/
+- https://www.ibm.com/blogs/blockchain/
+- https://blog.coinfund.io/?gi=90ab24467826
+- https://medium.com/@jimmysong
+- https://multicoin.capital/
 
 4)Courses
 - https://www.edx.org/learn/hyperledger
 - https://www.udemy.com/course/blockchain-developer/
+- https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/
+- https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie
+- https://www.udemy.com/course/understanding-blockchain-technology/
+- https://cognitiveclass.ai/courses/blockchain-course
 
 5)Whitepapers
 - Bitcoin Whitepaper : https://bitcoin.org/bitcoin.pdf
