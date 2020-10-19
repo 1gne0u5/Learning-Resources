@@ -19,5 +19,11 @@
 6. [Machine Learning Algorithm Overview](https://medium.com/ml-research-lab/machine-learning-algorithm-overview-5816a2e6303)
 7. [100 Days of ML Code - Avik Jain (Github)](https://github.com/Avik-Jain/100-Days-Of-ML-Code)<br/>*A hands on approach to learning machine learning by doing. Following this path from the Github repo, one can get an in-depth practical knowledge.*
 8. [Machine Learning Yearning - Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)<br/>*A free ebook from Andrew Ng which is a great resource for readers who want to dive deep into the concepts behind Machine Learning.*
+
 9. [Cambridge Artificial Intelligence - Foundation of Computational Agents - David L. Poole and Alan K. Mackworth](https://github.com/ErickNyagilo/Learning-Resources/blob/master/Machine%20Learning/Resources/Books/Cambridge_ArtificialIntelligence.pdf)
+10. [Machine Learning with python course- freecodecamp](https://www.freecodecamp.org/learn/)<br/>*You also get 5 interesting projects to work on simultaneously and also grab a certificate on completing them*
+- Fruitful Youtube:
+11. [Neuralnetwork playlist-  by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)<br/>*The channel is also a great source to learn mathematical concepts useful in ML, like linera algebra,calculus etc*
+12. [Neuralnetwork from scratch - by sentdex](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)<br/>*the channel 1 provides visual understanding, this one helps understand with codes from scratch*
+
 
