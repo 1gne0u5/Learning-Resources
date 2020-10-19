@@ -1,4 +1,4 @@
-# Add interesting blogs you find over the internet here
+# Add interesting blogs and lectures you find over the internet here
 
 ## WEB DEVELOPMENT AND DESIGNING
 
@@ -12,6 +12,7 @@
 - [Frontend Mentor](https://www.frontendmentor.io/) - Here you can Improve your front-end coding skills by building real projects.
 - [UnDraw](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 - [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers#favicons) - Curated list of design and UI resources.
+- [React for Web Development]( https://www.freecodecamp.org/news/react-10-hour-course/) - Beginner-level course that teaches you how to use the React JavaScript library. It will also teach you how to use React Hooks, React Router, and the context API.
 
 ---
 
@@ -20,6 +21,7 @@
 - [Hackernoon](https://hackernoon.com/) - Hacker Noon is built for technologists to read, write, and publish.
 - [Hacker News](https://news.ycombinator.com/) - News related to tech from various sources at one place.  
 - [TechCrunch](https://techcrunch.com/) - It is a great tech roundup as to the latest news-worthy events for the day.
+- [freeCodeCamp Tech Talks](https://www.freecodecamp.org/news/watch-tech-talks-whenever-you-want-from-conferences-around-the-world/) - Tech talks are a fun way to expand your conceptual knowledge of the field. freeCodeCamp has partnered with dozens of big programming conferences to bring you tech talks from developers around the world. Learn at your convenience on the new freeCodeCamp Talks channel.
 
 ---
 
@@ -37,8 +39,13 @@
 - [SpeckyBoy](https://speckyboy.com/) - Here you can find many tutorials, helpful resources and time saving techniques. This site will keep you up to date by   providing you the latest web technologies and in-design trends.
 
 ---
+## DATA SCIENCE
 
+-[Basics of Data Science](https://www.freecodecamp.org/news/hands-on-data-science-course/) - Learn important concepts like Linear Regression, Classification, Resampling and Regularization, Decision trees, SVM, and Unsupervised Learning.
+
+---
 ## MISCELLENOUS
 
 - [CodePen](https://blog.codepen.io/) - Chris Coyier, Alex Vazquez, and Tim Sabat, the co-founders of CodePen talk about the ins and outs of running a web software business. CodePen is a playground for the front end side of the web. It's all about inspiration, education, and sharing.
 - [Better Programming](https://medium.com/better-programming) - Advice for programmers. We cover code tutorials, leadership and management, productivity and coffee.
+- [Better resume cover-letter](https://www.freecodecamp.org/news/how-to-improve-your-cover-letter/) - How to write a résumé cover letter that hiring managers will actually read. Practical tips from a developer and cybersecurity engineer who is a hiring manager herself
