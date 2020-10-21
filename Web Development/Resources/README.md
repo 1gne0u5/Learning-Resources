@@ -12,3 +12,5 @@
 - [Learn Web Development from Scratch | Edureka](https://www.youtube.com/watch?v=Q33KBiDriJY)
 - [Web Development Training | Intellipaat](https://www.youtube.com/watch?v=7T3gVzKHOlU)
 - [Complete Free Web Development Course: Become A Professional Website](https://www.youtube.com/watch?v=U-JhRjRaD4A)
+- [Learn Progressive Web App by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+- [Learn Django by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
