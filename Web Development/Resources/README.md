@@ -10,4 +10,6 @@
 - [Flexbox Froggy: Interactive CSS Learning Game](https://flexboxfroggy.com/)
 - [Grid Garden: Interative CSS Learning Game](https://cssgridgarden.com/)
 - [Grow Your Web Development Skills](https://www.pluralsight.com/browse/software-development/web-development)
-- [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?skipBrowseRedirect=true)
+- [Build & Publish a Custom Google Chrome Extension](https://www.youtube.com/watch?v=wHZCYi1K664&t=5s)
+- [Build A URL Shortener With Node.js, Express, and MongoDB](https://www.youtube.com/watch?v=SLpUKAGnm-g)
+- [Firebase Firestore Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
