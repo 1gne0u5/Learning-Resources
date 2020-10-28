@@ -12,6 +12,7 @@
 - [Frontend Mentor](https://www.frontendmentor.io/) - Here you can Improve your front-end coding skills by building real projects.
 - [UnDraw](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 - [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers#favicons) - Curated list of design and UI resources.
+- [Fireship.io](https://fireship.io/) - is an ecosystem of practical resources for developers who want to build high-quality web & mobile apps.
 
 ---
 
