@@ -25,6 +25,11 @@
 
 *[Solution (Python)](repetitions.py)*
 
+*Two Knights*
+---
+
+*[Solution (Python)](twoKnights.py)*
+
 *Wierd Algorithm*
 ---
 
