@@ -5,4 +5,4 @@
 
 <i>Resources to be added further...</i>
 
--------------------------:) Happy Deployments :)-------------------------
+-------------------------Happy Deployments-------------------------
