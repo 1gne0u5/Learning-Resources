@@ -7,3 +7,4 @@
 - [Best CSS Courses for Beginners](https://hackr.io/tutorials/learn-css)
 - [Flexbox Froggy: Interactive CSS Learning Game](https://flexboxfroggy.com/)
 - [Grid Garden: Interative CSS Learning Game](https://cssgridgarden.com/)
+- [University of Helsinki Complete Full Stack Course](https://fullstackopen.com/en)
