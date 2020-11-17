@@ -9,8 +9,14 @@
 - [Best CSS Courses for Beginners](https://hackr.io/tutorials/learn-css)
 - [Flexbox Froggy: Interactive CSS Learning Game](https://flexboxfroggy.com/)
 - [Grid Garden: Interative CSS Learning Game](https://cssgridgarden.com/)
+- [Grow Your Web Development Skills](https://www.pluralsight.com/browse/software-development/web-development)
+- [Build & Publish a Custom Google Chrome Extension](https://www.youtube.com/watch?v=wHZCYi1K664&t=5s)
+- [Build A URL Shortener With Node.js, Express, and MongoDB](https://www.youtube.com/watch?v=SLpUKAGnm-g)
+- [Firebase Firestore Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
+
 - [Learn Web Development from Scratch | Edureka](https://www.youtube.com/watch?v=Q33KBiDriJY)
 - [Web Development Training | Intellipaat](https://www.youtube.com/watch?v=7T3gVzKHOlU)
 - [Complete Free Web Development Course: Become A Professional Website](https://www.youtube.com/watch?v=U-JhRjRaD4A)
 - [Learn Progressive Web App by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 - [Learn Django by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+
